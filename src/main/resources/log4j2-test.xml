@@ -11,7 +11,7 @@
         <File name="file" fileName="logs/errors.log" >
             <PatternLayout>
                 <pattern>
-                    [%-5level]  %d | %c: %m%n
+                    [%-5level]git   %d | %c: %m%n
                 </pattern>
             </PatternLayout>
         </File>
